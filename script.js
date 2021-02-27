@@ -2,16 +2,16 @@
 
 //--------------------TASK-1---------------------
 
-// let firstNum = parseInt(prompt("Enter start of diapason",""));
-// let secondNum = parseInt(prompt("Enter end of diapason",""));
-// let sum = 0;
+let firstNum = parseInt(prompt("Enter start of diapason",""));
+let secondNum = parseInt(prompt("Enter end of diapason",""));
+let sum = 0;
  
-// while(firstNum <= secondNum){       
-//        sum += firstNum;  
-//        firstNum++;
-//     }
+while(firstNum <= secondNum){       
+       sum += firstNum;  
+       firstNum++;
+    }
 
-// console.log(sum)
+console.log(sum)
 
 //--------------------TASK-2---------------------
 let firstNum = parseInt(prompt("Enter a first number"));
